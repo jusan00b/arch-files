@@ -5,7 +5,7 @@
 # Other downloads required before setting up dwm
 + xorg
 + git
-+ yay gitrepo
++ yay
 + neovim
 + picom
 + vscodium-bin using yay

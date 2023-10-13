@@ -7,6 +7,7 @@
 + git
 + yay
 + neovim
++ nitrogen
 + picom
 # Additional donloads
 + vscodium-bin using yay

@@ -4,6 +4,7 @@
 + anonymouspro directory should be in /usr/share/fonts/
 # Downloads required
 + xorg
++ xorg-xinit
 + git
 + yay
 + neovim

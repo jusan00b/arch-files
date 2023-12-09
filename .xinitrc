@@ -70,3 +70,6 @@ done
 
 #Execute DWM
 exec dwm
+
+#Execute Dunst
+exec dunst
